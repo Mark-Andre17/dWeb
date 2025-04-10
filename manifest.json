@@ -3,6 +3,7 @@
     "short_name": "Dr.Web Promo",
     "start_url": "/dWeb/index.html",
     "display": "standalone",
+    "scope": "/dWeb/",
     "background_color": "#1A1A1A",
     "theme_color": "#69B42E",
     "icons": [
